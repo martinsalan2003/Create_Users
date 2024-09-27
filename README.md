@@ -11,13 +11,13 @@ Aula de Desenvolvimento FullStack
 </p>
 
 <p align="center">
-  <img alt="License" src="./preview/Preview.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="previsu" src="./.github/preview.png" width="100%">
+  <img alt="previsu" src="./preview/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
