@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseURL: "http://localhost:3000"
+    baseURL: "https://create-users-uugl-git-main-alan-martins-projects-6e894c4d.vercel.app/"
 })
 
 
